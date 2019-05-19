@@ -1,0 +1,7 @@
+C:\Users\РС\source\repos\MyComplexProgect\FileWorking\bin\Debug\FileWorking.exe.config
+C:\Users\РС\source\repos\MyComplexProgect\FileWorking\bin\Debug\FileWorking.exe
+C:\Users\РС\source\repos\MyComplexProgect\FileWorking\bin\Debug\FileWorking.pdb
+C:\Users\РС\source\repos\MyComplexProgect\FileWorking\obj\Debug\FileWorking.csprojAssemblyReference.cache
+C:\Users\РС\source\repos\MyComplexProgect\FileWorking\obj\Debug\FileWorking.csproj.CoreCompileInputs.cache
+C:\Users\РС\source\repos\MyComplexProgect\FileWorking\obj\Debug\FileWorking.exe
+C:\Users\РС\source\repos\MyComplexProgect\FileWorking\obj\Debug\FileWorking.pdb

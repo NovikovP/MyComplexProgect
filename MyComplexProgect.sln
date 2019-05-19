@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeleteDirectory", "DeleteDi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestDeleteDirectory", "UnitTestDeleteDirectory\UnitTestDeleteDirectory.csproj", "{5432472A-63FC-42A7-8857-46E9A09A4CEE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileWorking", "FileWorking\FileWorking.csproj", "{F975B2C1-F4E7-4353-901E-A1003B20BB95}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{5432472A-63FC-42A7-8857-46E9A09A4CEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5432472A-63FC-42A7-8857-46E9A09A4CEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5432472A-63FC-42A7-8857-46E9A09A4CEE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F975B2C1-F4E7-4353-901E-A1003B20BB95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F975B2C1-F4E7-4353-901E-A1003B20BB95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F975B2C1-F4E7-4353-901E-A1003B20BB95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F975B2C1-F4E7-4353-901E-A1003B20BB95}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -10,7 +10,7 @@ namespace UnitTestDeleteDirectory
         [TestMethod]
         public void TestMethod1()
         {
-            Assert.AreEqual("C:\\FolderToDelete", Program.deletePath);
+            Assert.AreEqual("C:\\Temp\\FolderToDelete", Program.deletePath);
 
         }
     }

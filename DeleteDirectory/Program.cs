@@ -16,7 +16,7 @@ namespace DeleteDirectory
         ///(будут удалены и вложенные директории и вложенные файлы).
         ///
 
-        public const string deletePath = "C:\\FolderToDelete"; //Можно написать вот так string deletePath = @"D:\FolderToDelete";
+        public const string deletePath = "C:\\Temp\\FolderToDelete"; //Можно написать вот так string deletePath = @"D:\FolderToDelete";
         public static void Main(string[] args)
             {
                 //string deletePath = "C:\\FolderToDelete"; //Можно написать вот так string deletePath = @"D:\FolderToDelete";

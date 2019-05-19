@@ -11,7 +11,7 @@ namespace SizeDirectory
         /// затем, если в данном каталоге есть ещё директории, рекурсивно вызвать для них тот же самый метод.
         static void Main(string[] args)
         {
-            string pathToDirectory = "D:\\Catalog";
+            string pathToDirectory = "D:\\Temp\\Catalog";
             double catalogSize = 0;
             catalogSize = sizeOfFolder(pathToDirectory, ref catalogSize); //Вызываем наш рекурсивный метод
             if (catalogSize != 0)
