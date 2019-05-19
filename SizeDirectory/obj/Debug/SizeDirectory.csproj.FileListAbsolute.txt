@@ -1,0 +1,7 @@
+C:\Users\РС\source\repos\MyComplexProgect\SizeDirectory\bin\Debug\SizeDirectory.exe.config
+C:\Users\РС\source\repos\MyComplexProgect\SizeDirectory\bin\Debug\SizeDirectory.exe
+C:\Users\РС\source\repos\MyComplexProgect\SizeDirectory\bin\Debug\SizeDirectory.pdb
+C:\Users\РС\source\repos\MyComplexProgect\SizeDirectory\obj\Debug\SizeDirectory.csprojAssemblyReference.cache
+C:\Users\РС\source\repos\MyComplexProgect\SizeDirectory\obj\Debug\SizeDirectory.csproj.CoreCompileInputs.cache
+C:\Users\РС\source\repos\MyComplexProgect\SizeDirectory\obj\Debug\SizeDirectory.exe
+C:\Users\РС\source\repos\MyComplexProgect\SizeDirectory\obj\Debug\SizeDirectory.pdb

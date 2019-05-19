@@ -1,0 +1,7 @@
+C:\Users\РС\source\repos\MyComplexProgect\DeleteDirectory\bin\Debug\DeleteDirectory.exe.config
+C:\Users\РС\source\repos\MyComplexProgect\DeleteDirectory\bin\Debug\DeleteDirectory.exe
+C:\Users\РС\source\repos\MyComplexProgect\DeleteDirectory\bin\Debug\DeleteDirectory.pdb
+C:\Users\РС\source\repos\MyComplexProgect\DeleteDirectory\obj\Debug\DeleteDirectory.csprojAssemblyReference.cache
+C:\Users\РС\source\repos\MyComplexProgect\DeleteDirectory\obj\Debug\DeleteDirectory.csproj.CoreCompileInputs.cache
+C:\Users\РС\source\repos\MyComplexProgect\DeleteDirectory\obj\Debug\DeleteDirectory.exe
+C:\Users\РС\source\repos\MyComplexProgect\DeleteDirectory\obj\Debug\DeleteDirectory.pdb

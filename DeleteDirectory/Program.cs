@@ -2,7 +2,7 @@
 using System.IO;
 namespace DeleteDirectory
 {
-    class Program
+    public static class Program
     {
         ///работой с файловой системой. Для того, чтобы иметь возможность работать с файлами и папками
         ///в .NET Framework необходимо добавить пространство имен System.IO папку можно удалить только тогда,
@@ -15,9 +15,11 @@ namespace DeleteDirectory
         ///Благодаря ему будет выполнен рекурсивный пробег по всем вложенным директориям 
         ///(будут удалены и вложенные директории и вложенные файлы).
         ///
-        static void Main(string[] args)
+
+        public const string deletePath = "C:\\FolderToDelete"; //Можно написать вот так string deletePath = @"D:\FolderToDelete";
+        public static void Main(string[] args)
             {
-                string deletePath = "D:\\FolderToDelete"; //Можно написать вот так string deletePath = @"D:\FolderToDelete";
+                //string deletePath = "C:\\FolderToDelete"; //Можно написать вот так string deletePath = @"D:\FolderToDelete";
                 deleteFolder(deletePath); //Вызываем наш рекурсивный метод
                                           //После вызова метода deleteFolder() папка, путь которой указан в deletePath,
                                           //должна быть пуста. Остаётся просто удалить её.
